@@ -1,0 +1,145 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f05d;
+  margin: 0;
+  padding: 0;
+  /* padding: 40px; */
+  box-sizing: border-box;
+    background-color: #e6f4ea; /* أخضر فاتح */
+    background-image: url('https://www.transparenttextures.com/patterns/leaf.png');
+    background-repeat: repeat;
+    background-size: 200px 200px;
+  /* font-family: 'Arial', sans-serif;
+  background:
+    url('9c98df59-290a-44ef-8c1b-4b1963b9c22b.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+}
+/* * {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+  background:
+    url('9c98df59-290a-44ef-8c1b-4b1963b9c22b.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
+
+header {
+  background-color: #507C6B; /* أخضر فاتح غامق سنة بسيطة */
+  padding: 15px 30px;
+}
+
+.navbar {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin-left: 400px;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  font-size: 28px;
+  position: relative;
+}
+
+.nav-links li a::after {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(255, 255, 255);
+  transition: 1s all ease-in-out;
+  transform: scale(0);
+}
+
+.nav-links li a:hover::after {
+  transform: scale(1);
+}
+
+button {
+  padding: 10px 30px;
+  font-size: 25px;
+  background-color: #507C6B;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  margin-left: 200px;
+
+}
+
+button a {
+  text-decoration: none;
+  color: aliceblue;
+}
+button:hover {
+  background-color: #507C6B;
+  transform: scale(1.05);
+  box-shadow: 5px 5px 15px rgba(166, 164, 164, 0.533);
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* margin-top: 100px; */
+}
+
+/* h1 {
+  margin-top: 30px;
+} */
+
+.card {
+  background-color: rgba(255, 255, 255, 0.675); /* أبيض شفاف */
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1); /* ظل خفيف */
+  overflow: hidden;
+  border-radius: 20px;
+  padding: 10px;
+  width: 500px;
+  text-align: center;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  height: 350px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+  border-radius: 20px;
+  border: 2px solid #d0e0d0;
+}
+
+.card:hover img {
+  transform: scale(1.1);
+}
+.card h1{
+  color: #444444;
+}
+.card p {
+  color: #03030388;
+  padding: 10px;
+  font-size: 16px;
+}
