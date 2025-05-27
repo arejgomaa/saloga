@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ظاهره بيض السمك",
+                "image":"image/photo1.jpeg"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876355078537074,
+                    24.071057477373074
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ظاهره بيض السمك"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87645936873625,
+                    24.071024745096352
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ظاهره الورنيش النهرى"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87632411738383,
+                    24.0709458900309
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ظاهره حمام السباحه"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.875751447787735,
+                    24.070401168758593
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ظاهره عدم التوافق فى الصخور"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87407267815232,
+                    24.070457484479306
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

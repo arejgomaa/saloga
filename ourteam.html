@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>فريق عمل محمية سالوجا وغزال - سلايدر وفيديو الشكر</title>
+
+    <!-- ربط مكتبة Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(#e6f4ea, #f0f0f039);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+            text-align: center;
+        }
+
+        header {
+            padding: 2rem 1rem;
+            background: #507C6B;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            font-size: 2.5rem;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+
+        /* تصميم السلايدر */
+        .swiper {
+            width: 90%;
+            max-width: 900px;
+            height: 500px;
+            padding: 2rem 0;
+            margin: auto;
+        }
+
+
+        .swiper-slide {
+            background: #507C6B;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+
+        }
+
+        .swiper-slide:hover {
+            transform: scale(1.05);
+        }
+
+        .swiper-slide img {
+            width: 100%;
+            height: 450px;
+            object-fit: cover;
+            filter: brightness(0.85);
+            transition: filter 0.3s ease;
+        }
+
+        .swiper-slide:hover img {
+            filter: brightness(1);
+        }
+
+        .member-name {
+            color: #fcfffc;
+            font-weight: bold;
+            padding: 0.8rem 0;
+            font-size: 1.1rem;
+        }
+
+        /* أزرار التنقل */
+        .swiper-button-next,
+        .swiper-button-prev {
+            color: #ffffff;
+            top: 45%;
+        }
+
+        /* Pagination bullets */
+        .swiper-pagination-bullet {
+            background: #ffffff;
+            opacity: 0.7;
+        }
+
+        .swiper-pagination-bullet-active {
+            opacity: 1;
+            background: #a4d956;
+        }
+
+        /* رسالة الشكر */
+        .thankyou-section {
+            max-width: 700px;
+            margin: 3rem auto 5rem;
+            background: #507C6B;
+            border-radius: 15px;
+            padding: 2rem 1.5rem;
+            text-align: center;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+            font-size: 1.3rem;
+            line-height: 1.6;
+            position: relative;
+            color: #fefefe;
+        }
+
+        /* زر فتح الفيديو */
+        .btn-video {
+            display: inline-block;
+            margin-top: 1.5rem;
+            padding: 0.7rem 1.5rem;
+            background-color: #f7f7f7;
+            color: #23420f;
+            font-weight: 700;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            border: none;
+            font-size: 1rem;
+        }
+
+        .btn-video:hover {
+            background-color: #a4d956;
+        }
+
+        /* مودال الفيديو */
+        /* .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.8);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 999;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            position: relative;
+            width: 90%;
+            max-width: 720px;
+            background: #000;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+        } */
+
+        /* .modal-content iframe,
+        .modal-content video {
+            width: 100%;
+            height: 405px;
+            display: block;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 2rem;
+            color: #fff;
+            cursor: pointer;
+            font-weight: bold;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 50%;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            text-align: center;
+        } */
+
+        /* Responsive */
+        @media (max-width: 500px) {
+
+            .modal-content iframe,
+            .modal-content video {
+                height: 250px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>فريق عمل مشروع محمية سالوجا وغزال</header>
+
+    <!-- سلايدر -->
+    <div class="swiper">
+        <div class="swiper-wrapper">
+            <!-- كل عضو slide -->
+            <div class="swiper-slide">
+                <img src="imageteam/dodo.jpeg" />
+                <div class="member-name">دعاء عبد العال</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/nora.jpeg" />
+                <div class="member-name"> نورا يسرى </div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/soso.jpeg" />
+                <div class="member-name">سلمى احمد </div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/ranon.jpeg" />
+                <div class="member-name">رنا ابراهيم</div>
+            </div>
+            <!-- أضيفي باقي الأعضاء بنفس الطريقة -->
+            <div class="swiper-slide">
+                <img src="imageteam/nadosh.jpeg" />
+                <div class="member-name">ندى احمد</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/lola.jpeg" />
+                <div class="member-name">الاء خالد</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/zoza.jpeg" />
+                <div class="member-name">زينب سيد </div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/so.jpeg" />
+                <div class="member-name">اسراء ناصر</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/ahmed.jpeg" />
+                <div class="member-name"> احمد عبد الناصر</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/abdo.jpeg" />
+                <div class="member-name">عبد الرحمن هشام</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/bashar.jpeg" />
+                <div class="member-name"> بشار عماد</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/khaled.jpeg" />
+                <div class="member-name"> خالد خلف</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="imageteam/darsh.jpeg" />
+                <div class="member-name">مصطفى محمد</div>
+            </div>
+        </div>
+
+
+
+        <!-- أزرار التنقل -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+
+        <!-- Pagination -->
+        <div class="swiper-pagination"></div>
+    </div>
+
+
+
+
+    <h2 style="text-align: center; color: #507C6B; margin-top: 2rem;">تحت اشراف</h2>
+
+
+    <!-- سلايدر الدكاترة -->
+    <div class="swiper doctors-swiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img src="image/د الحسيني.jpg" />
+                <div class="member-name">أ.د/ محمد الحسيني</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="image/د سعد.jpg" />
+                <div class="member-name">أ.د/ سعد احمد</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="image/د اسماء.jpg" />
+                <div class="member-name">د/ أسماء محمود</div>
+            </div>
+            <div class="swiper-slide">
+                <img src="image/د ندي.jpg" />
+                <div class="member-name">د/ ندى محمد</div>
+            </div>
+        </div>
+
+        <!-- أزرار التنقل -->
+        <div class="swiper-button-next doctor-next"></div>
+        <div class="swiper-button-prev doctor-prev"></div>
+
+        <!-- Pagination -->
+        <div class="swiper-pagination doctor-pagination"></div>
+    </div>
+
+
+    <!-- رسالة الشكر مع زر الفيديو -->
+    <section class="thankyou-section">
+        <p>"شكراً لكل فرد منكم على مجهوده الرائعة في هذا المشروع من فكره و تخطيط و تنفيذ "</p>
+        <!-- <button class="btn-video" id="openVideoBtn"> </button> -->
+    </section>
+
+    <!-- مودال الفيديو -->
+    <!-- <div class="modal" id="videoModal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeModalBtn">&times;</span>
+            ممكن تبدلي الرابط هنا برابط الفيديو الخاص بكم -->
+    <!-- <video controls>
+                <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+                    type="video/webm" />
+                متصفحك لا يدعم تشغيل الفيديو.
+            </video>
+        </div>
+    </div> -->
+
+
+    <!-- ربط مكتبة Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+    <script>
+        // إعداد السلايدر
+        const swiper = new Swiper('.swiper', {
+            direction: 'horizontal',
+            loop: true,
+            slidesPerView: 3,
+            spaceBetween: 20,
+            centeredSlides: true,
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 10,
+                },
+                600: {
+                    slidesPerView: 2,
+                    spaceBetween: 15,
+                },
+                900: {
+                    slidesPerView: 3,
+                    spaceBetween: 20,
+                }
+            }
+        });
+
+
+
+
+
+
+
+
+
+        // إعداد المودال
+        //     const openBtn = document.getElementById("openVideoBtn");
+        //     const modal = document.getElementById("videoModal");
+        //     const closeBtn = document.getElementById("closeModalBtn");
+
+        //     openBtn.addEventListener("click", () => {
+        //         modal.classList.add("active");
+        //     });
+
+        //     closeBtn.addEventListener("click", () => {
+        //         modal.classList.remove("active");
+        //     });
+
+
+        //     closeBtn.addEventListener("click", () => {
+        //     modal.classList.remove("active");
+        //     // إيقاف الفيديو عند إغلاق المودال
+        //     const video = modal.querySelector("video");
+        //     if (video) {
+        //         video.pause();
+        //         video.currentTime = 0;
+        //     }
+        // });
+
+
+
+
+
+
+    </script>

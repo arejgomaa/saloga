@@ -1,0 +1,1093 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                 "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87718968421029,
+                    24.071862879213228
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87705834999619,
+                    24.07180440325064
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "المستحيه"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876820813758115,
+                    24.07164155874848
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "النبق"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87692368667837,
+                    24.071474196200583
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "العبل"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87673843645868,
+                    24.071503772656257
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الحنه"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876815600583626,
+                    24.07137634916957
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الطلح"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876843327309814,
+                    24.071276493326593
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "العبل"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87664751042831,
+                    24.071185278686016
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "السيال"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876219637616686,
+                    24.071296865225776
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87614261893313,
+                    24.07123216985981
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87646917814993,
+                    24.07100573582136
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "السيال"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87619191090752,
+                    24.070950885288283
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.8762473643595,
+                    24.07072585718022
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876456855177196,
+                    24.07077789496546
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.876520010497444,
+                    24.070672412946294
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87665710375492,
+                    24.070735702168335
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.875889408024904,
+                    24.070491381059853
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "السيال"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87556284888544,
+                    24.070872522908402
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87537184255038,
+                    24.071062390183968
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87533826856978,
+                    24.07069587741499
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87510721252053,
+                    24.070843552189743
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87525970951313,
+                    24.070444126692237
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.8754383929022,
+                    24.070288012935933
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87554929980618,
+                    24.07016284045268
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87601911377422,
+                    24.070299264389305
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87493277134499,
+                    24.070760004254595
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87560363110941,
+                    24.071449743130344
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87536949431126,
+                    24.071355513024443
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87505987920537,
+                    24.071279566321635
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.874799556054995,
+                    24.071210651681966
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87455155589484,
+                    24.071151581961388
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87431587872362,
+                    24.071109389287187
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.874783652803075,
+                    24.07095534348656
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "الخروب"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87452041422952,
+                    24.070876340308516
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "المستحيه"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87357540745154,
+                    24.070389531853564
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                 "name": "المستحيه"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87366068131419,
+                    24.070342569345115
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                 "name": "المستحيه"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.873578114558484,
+                    24.070333918355857
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                 "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.873334580611896,
+                    24.06975229546873
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                  "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87323799798065,
+                    24.06954366312415
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                  "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.874694931062635,
+                    24.069849083923387
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                  "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.875055349171674,
+                    24.069724334821743
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                  "name": "البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.87603059817138,
+                    24.069649055131805
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"السيال"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.870266213561905,
+                    24.070793062387537
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"الطلح"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.870209955411894,
+                    24.070903696942267
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"السيال"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.86980060947681,
+                    24.07085141929609
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"العبل"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.86954288951557,
+                    24.07084928012229
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"العبل"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.86925705464844,
+                    24.07084928012229
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86901222054368,
+                    24.0708546282645
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86882713075272,
+                    24.070845001982917
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.868801358756684,
+                    24.07077333964365
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86857934100462,
+                    24.07040183084247
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.868506256101654,
+                    24.070250468025407
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.868447431816946,
+                    24.069928223285643
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86850625624999,
+                    24.069744308621694
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86849897830652,
+                    24.06959490637334
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"السيال"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.86844107433555,
+                    24.069458327369986
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name":"البوص"
+            },
+            "geometry": {
+                "coordinates": [
+                    32.86874265751851,
+                    24.06904858948819
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86870103432841,
+                    24.068921408694024
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.868814474239656,
+                    24.068807116848973
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86850740413496,
+                    24.069183922391076
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86906678025019,
+                    24.0688303323884
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.86839592008354,
+                    24.069882170493088
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87557858038295,
+                    24.073821129555924
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87541193153103,
+                    24.07385811138697
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87546632386406,
+                    24.07399547238313
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87561561346084,
+                    24.074081058774425
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87563760185111,
+                    24.07417721131951
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87576837490843,
+                    24.074271250552016
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87579499243384,
+                    24.07367425874797
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.8757880487656,
+                    24.073910806194576
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.875943124780775,
+                    24.073924542294705
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.876061167718035,
+                    24.07401435522388
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.8759338665115,
+                    24.074207716962434
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.875858643071496,
+                    24.074346134202386
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87580309345415,
+                    24.074336624626454
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.876163008682454,
+                    24.074139036596875
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.876257905946176,
+                    24.074247868543935
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87614449214399,
+                    24.074070356194525
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.875940810131624,
+                    24.074439116468795
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.876031078259274,
+                    24.074529985655275
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87607389755678,
+                    24.07463353408251
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87634817379251,
+                    24.074521532608628
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.876378263168704,
+                    24.0743493037359
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87648704783578,
+                    24.074481381112832
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87640488069309,
+                    24.074644100254147
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87652639548122,
+                    24.07468108184875
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87655764021656,
+                    24.07477934618707
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87665253747923,
+                    24.074883951129834
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.8766560093311,
+                    24.07478357265049
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    32.87683770287066,
+                    24.07479942188992
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

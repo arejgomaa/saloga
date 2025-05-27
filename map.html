@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Saluga & Ghazal Nature Reserve Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>محميه سالوجا و غزال</h1>
+    <nav>
+      <ul>
+        <li><a href="#map">الخريطه</a></li>
+        <li><a href="#stats">الفيديوهات</a></li>
+        <li><a href="#gallery">الاحصائيات</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="map">
+      <h2>خريطه تفاعليه</h2>
+      <div id="mapContainer"></div>
+    </section>
+
+    <!-- <section id="stats">
+      <h2>Statistics</h2>
+      <canvas id="visitorsChart"></canvas>
+    </section> -->
+
+    <section id="gallery">
+      <h2>احصائيات</h2>
+      <hr>
+      <div class="image-grid">
+        <!-- Add your images here -->
+        <div class="image-placeholder">
+          <img src="image/احصائيات 1.jpg">
+        </div>
+        <div class="image-placeholder">
+          <img src="image/احصائيات 2.jpg">
+        </div>
+        <div class="image-placeholder">
+          <img src="image/احصائيات 3.jpg">
+        </div>
+        <div class="image-placeholder">
+          <img src="image/احصائيات 4.jpg">
+        </div>
+        <div class="image-placeholder">
+          <img src="image/احصائيات 5.jpg">
+        </div>
+        <div class="image-placeholder">
+          <img src="image/احصائيات 6.jpg">
+        </div>
+        <div class="image-placeholder">
+          <img src="image/احصائيات 7.jpg">
+        </div>
+      </div>
+    </section>
+    <section id="video">
+      <h2>فيديوهات</h2>
+      <hr>
+      <div class="video-grid">
+        <!-- Add your images here -->
+        <div class="video-placeholder">
+          <video controls width="100%" height="300px">
+            <source src="video/WhatsApp Video 2025-05-10 at 3.03.48 PM.mp4">
+          </video>
+        </div>
+        <div class="video-placeholder">
+          <video controls width="100%" height="300px">
+            <source src="video/WhatsApp Video 2025-05-10 at 3.04.17 PM.mp4">
+          </video>
+        </div>
+        <div class="video-placeholder">
+          <video controls width="100%" height="300px">
+            <source src="video/فيديو نبات المستحيه.mp4">
+          </video>
+        </div>
+        <div class="video-placeholder">
+          <video controls width="100%" height="300px">
+            <source src="video/WhatsApp Video 2025-05-10 at 3.04.56 PM.mp4">
+          </video>
+        </div>
+        <div class="video-placeholder">
+          <video controls width="100%" height="300px">
+            <source src="video/فيديو الاشجار.mp4">
+          </video>
+        </div>
+        <div class="video-placeholder">
+          <video controls width="100%" height="300px">
+            <source src="video/فيديو المياه.mp4">
+          </video>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Saluga & Ghazal Nature Reserve</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

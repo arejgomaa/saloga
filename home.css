@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.533), rgba(0, 0, 0, 0.599)),
+              url('61969-364773-سالوجا-وغزال-(2).jpg') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 20px;
+    animation-name: h1;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    position: relative;
+}
+@keyframes h1 {
+    from {
+        top: -200px;
+    }
+
+    to {
+        top: 0px;
+    }
+}
+
+button {
+    padding: 10px 30px;
+    font-size: 28px;
+    background-color: #507C6B;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    animation-name: button;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    position: relative;
+    
+}
+@keyframes button {
+    from {
+        bottom: -200px;
+    }
+
+    to {
+        bottom: 0px;
+    }
+}
+
+button:hover {
+    background-color: #507C6B;
+    transform: scale(1.05);
+    box-shadow: 5px 5px 15px rgba(166, 164, 164, 0.533);
+}
